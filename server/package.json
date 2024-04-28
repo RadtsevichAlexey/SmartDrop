@@ -1,0 +1,11 @@
+{
+  "name": "smart-drop",
+  "version": "1.0.0",
+  "description": "SmartDrop: Cloud Storage Made Easy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "RadtsevichAlexey",
+  "license": "MIT"
+}
